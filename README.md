@@ -11,7 +11,7 @@ The Trading System is a comprehensive, high-performance financial trading platfo
 - [match-engine](https://github.com/tihaya-anon/matching_deploy)
 - [event/event_repository](https://github.com/tihaya-anon/tx_sys-event-event_repository)
 - [event/deploy](https://github.com/tihaya-anon/tx_sys-event)
-
+- [observability](https://github.com/tihaya-anon/tx_sys-observability)
 ## Key Features
 
 ### Order Management
