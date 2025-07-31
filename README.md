@@ -8,6 +8,7 @@ The Trading System is a comprehensive, high-performance financial trading platfo
 
 - [c4-model](https://github.com/tihaya-anon/tx_sys-doc-c4model)
 - [usecases](https://github.com/tihaya-anon/tx_sys-doc-usecases)
+- [protobuf](https://github.com/tihaya-anon/tx_sys-doc-proto)
 - [match-engine](https://github.com/tihaya-anon/matching_deploy)
 - [event/event_repository](https://github.com/tihaya-anon/tx_sys-event-event_repository)
 - [event/deploy](https://github.com/tihaya-anon/tx_sys-event)
