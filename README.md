@@ -4,6 +4,14 @@
 
 The Trading System is a comprehensive, high-performance financial trading platform designed to support various market instruments including stocks, debts, and indices. Built on a modern microservices architecture, the system provides robust capabilities for order management, financial operations, risk assessment, and security while maintaining high throughput and low latency required for trading operations.
 
+## Public Repository
+
+- [c4-model](https://github.com/tihaya-anon/tx_sys-doc-c4model)
+- [usecases](https://github.com/tihaya-anon/tx_sys-doc-usecases)
+- [match-engine](https://github.com/tihaya-anon/matching_deploy)
+- [event/event_repository](https://github.com/tihaya-anon/tx_sys-event-event_repository)
+- [event/deploy](https://github.com/tihaya-anon/tx_sys-event)
+
 ## Key Features
 
 ### Order Management
